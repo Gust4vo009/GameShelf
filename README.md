@@ -33,11 +33,11 @@ No PowerShell do Windows, os comandos equivalentes são `npm.cmd ci` e `npm.cmd 
 
 | Ordem | Integrante | Tema |
 | --- | --- | --- |
-| 1 | Antônio Gustavo | Abertura, página Início e navegação |
-| 2 | João Máximo | Catálogo, busca e resultados |
-| 3 | Lucas Gabriel | Ficha do jogo e botão de favorito |
-| 4 | Giovanni Mannoel | Lista de favoritos e armazenamento |
-| 5 | Vinícius Aleixes | Página Sobre, TypeScript e fechamento |
+| 1 | Antônio Gustavo Oliveira da Silva - 01776203 | Abertura, página Início e navegação |
+| 2 | João Máximo Macedo Vale de Medeiros Cardoso - 01794448 | Catálogo, busca e resultados |
+| 3 | Lucas Gabriel Cunha Leal 01820489 | Ficha do jogo e botão de favorito |
+| 4 | Giovanni Mannoel Silva Moura - 01804946 | Lista de favoritos e armazenamento |
+| 5 | Vinícius Aleixes Victorino 01851834 | Página Sobre, TypeScript e fechamento |
 
 ## Telas do projeto
 <img width="1917" height="1077" alt="Exmplo Gameshelf 1" src="https://github.com/user-attachments/assets/fff52b26-2d46-4909-a6f7-477899b7e240" />
