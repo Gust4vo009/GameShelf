@@ -38,3 +38,8 @@ No PowerShell do Windows, os comandos equivalentes são `npm.cmd ci` e `npm.cmd 
 | 3 | Lucas Gabriel | Ficha do jogo e botão de favorito |
 | 4 | Giovanni Mannoel | Lista de favoritos e armazenamento |
 | 5 | Vinícius Aleixes | Página Sobre, TypeScript e fechamento |
+
+## Telas do projeto
+<img width="1917" height="1077" alt="Exmplo Gameshelf 1" src="https://github.com/user-attachments/assets/fff52b26-2d46-4909-a6f7-477899b7e240" />
+<img width="1917" height="1077" alt="Exmplo Gameshelf 3" src="https://github.com/user-attachments/assets/c2010f56-1785-412f-bba2-964ac3d261d1" />
+<img width="1917" height="1077" alt="Exmplo Gameshelf 2" src="https://github.com/user-attachments/assets/925474ed-c82a-4ee7-9e30-13c56ae8416c" />
